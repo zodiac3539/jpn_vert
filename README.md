@@ -10,5 +10,5 @@ Based upon Tesseract 4.0 jpn_vert (best from tessdata), I enhanced traineddata a
     The initial error rate was 20%. I trained until it reaches less than 1%
 (2) I trained couple of more Japanese fonts. (Please let me know if there it is).
 (3) Now, this trainenddata is able to recognize the heart symbols. Originally, the entire sentence gets weird, once Tesseract runs into 
-    heart symbols. I make the proble right by training heart symbols.
+    heart symbols. I make the problem right by training heart symbols.
 
