@@ -3,6 +3,10 @@ Hello all,
 
 This project is to enhance Tesseract 4's capability to recognize Japanese better. As you all know, Tesseract uses LSTM, which is a machine-learning technique to recognize characters from a picture file. This means that (a) the sentences / fonts are very important and (b) how much do you have your machine trainned is also important. 
 
+## Need automatic Japanese manga translator? visit here.
+
+http://www.mbaprogrammer.com/bulletin/view.jsp?categoryseq=21
+
 ## jpn_ver3.traineddata
 
 Based upon Tesseract 4.0 jpn_vert (best from tessdata), I enhanced traineddata a bit further.
