@@ -23,3 +23,15 @@ Finally, there has been a major improvement.
 * Add more expressions that are frequently used in a casual conversations.
 
 * Trained almost 200,000 cycles. The character level error rate is less than 1%.
+
+## jpn_vert5.traineddata
+
+Finally, there has been a major improvement again!
+
+* Add more fonts - Othutome, the font where most comic books use.
+
+* Trained almost 200,000 cycles. The character level error rate is less than 0.3%.
+
+* Whenever Tesseract stumbles upon ♥ ‼, Tesseract is likely to make a mistake, distorting the entire sentence. So, I trained these characters thoroughly. The result is remarkable. Feel free to leave any comment on my Github!
+
+![Example image1](http://www.mbaprogrammer.com/upload/newfont.png)
